@@ -1,0 +1,1 @@
+Vistas de la aplicacion movil (No tiene configuracion de react-native, solo los archivos que renderizan las vistas)
