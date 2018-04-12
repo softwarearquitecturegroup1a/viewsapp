@@ -1,1 +1,1 @@
-Vistas de la aplicacion movil (No tiene configuracion de react-native, solo los archivos que renderizan las vistas)
+Vistas de la aplicacion movil (No tiene configuracion de react-native, solo los archivos que renderizan las vistas, convertir de HTML a React native)
